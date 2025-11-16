@@ -78,8 +78,7 @@ Streaming Highlighter(이하 “확장 프로그램”)는 치지직(Chzzk) 방�
 
 개인정보 처리와 관련된 문의, 불만, 권리행사 요청은 아래 연락처로 보내 주시기 바랍니다.
 
-- 이메일: (운영자 이메일 기입)  
-- 기타: (필요 시 홈페이지/문의 폼 링크 기입)  
+- 이메일: pasar6987@gmail.com
 
 ---
 
@@ -169,8 +168,7 @@ You may stop using or uninstall the Extension at any time. You may also contact 
 
 If you have any questions, complaints, or requests regarding this Privacy Policy or the handling of personal information, please contact us at:
 
-- Email: (add operator contact email)  
-- Other: (add website or contact form URL, if applicable)  
+- Email: pasar6987@gmail.com 
 
 ---
 
